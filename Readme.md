@@ -1,7 +1,7 @@
 # IT-Support
+Some Skills and knowledges about IT-Supporting. We are keep updating docs
 
 ## Knowledge
-
 ### Basic-IT-Knowledge
 * Link: [Basics of Computer Networking](https://github.com/CYBERPROJECT-WALLMARIA/Basic-IT-Knowledge/tree/main/Basics%20of%20Computer%20Networking)
 * Link: [Computer Hardware Components](https://github.com/CYBERPROJECT-WALLMARIA/Basic-IT-Knowledge/tree/main/Computer%20Hardware%20Components)
@@ -18,7 +18,7 @@
 * Link: [Network Types](https://github.com/CYBERPROJECT-WALLMARIA/Networking-Knowledge/tree/main/Network%20Types)
 * Link: [The OSI model](https://github.com/CYBERPROJECT-WALLMARIA/Networking-Knowledge/tree/main/The%20OSI%20model)
 * Link: [Troubleshooting Tools](https://github.com/CYBERPROJECT-WALLMARIA/Networking-Knowledge/tree/main/Troubleshooting%20Tools)
-* Link: [Understand the Network Terminology](hhttps://github.com/CYBERPROJECT-WALLMARIA/Networking-Knowledge/tree/main/Understand%20the%20Network%20Terminology)
+* Link: [Understand the Network Terminology](https://github.com/CYBERPROJECT-WALLMARIA/Networking-Knowledge/tree/main/Understand%20the%20Network%20Terminology)
 
 ### OperatingSystem-Enterprise
 
@@ -42,6 +42,7 @@
 
 ##### SCCM
 
+##### Autopilot
 #### AD
 
 #### Setting
@@ -49,18 +50,11 @@
 ### Software
 #### Office
 
-#### Software Center
-
 #### External Program
 
 ### Hardware
-#### Equipment Installation
-##### PC / Laptop
-##### Network Equipment
-##### SD-WAN
-
-#### Equipment Disposal
-
+#### PC / Laptop
+#### Network Equipment
 #### Mobile Enrollment
 
 ## Project
